@@ -1,0 +1,11 @@
+D:\Dev\dot-net\C#ProjetBadgeVirtuel\ProjetBadgeVirtuel\bin\Debug\ProjetBadgeVirtuel.exe.config
+D:\Dev\dot-net\C#ProjetBadgeVirtuel\ProjetBadgeVirtuel\bin\Debug\ProjetBadgeVirtuel.exe
+D:\Dev\dot-net\C#ProjetBadgeVirtuel\ProjetBadgeVirtuel\bin\Debug\ProjetBadgeVirtuel.pdb
+D:\Dev\dot-net\C#ProjetBadgeVirtuel\ProjetBadgeVirtuel\obj\Debug\ProjetBadgeVirtuel.csproj.AssemblyReference.cache
+D:\Dev\dot-net\C#ProjetBadgeVirtuel\ProjetBadgeVirtuel\obj\Debug\ProjetBadgeVirtuel.csproj.SuggestedBindingRedirects.cache
+D:\Dev\dot-net\C#ProjetBadgeVirtuel\ProjetBadgeVirtuel\obj\Debug\ProjetBadgeVirtuel.Form1.resources
+D:\Dev\dot-net\C#ProjetBadgeVirtuel\ProjetBadgeVirtuel\obj\Debug\ProjetBadgeVirtuel.Properties.Resources.resources
+D:\Dev\dot-net\C#ProjetBadgeVirtuel\ProjetBadgeVirtuel\obj\Debug\ProjetBadgeVirtuel.csproj.GenerateResource.cache
+D:\Dev\dot-net\C#ProjetBadgeVirtuel\ProjetBadgeVirtuel\obj\Debug\ProjetBadgeVirtuel.csproj.CoreCompileInputs.cache
+D:\Dev\dot-net\C#ProjetBadgeVirtuel\ProjetBadgeVirtuel\obj\Debug\ProjetBadgeVirtuel.exe
+D:\Dev\dot-net\C#ProjetBadgeVirtuel\ProjetBadgeVirtuel\obj\Debug\ProjetBadgeVirtuel.pdb
