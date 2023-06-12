@@ -1,0 +1,15 @@
+C:\Users\etulyon1\Desktop\projects\docs-student\DotNet\ProjetDonet\ProjetDonet\C#ProjetBadgeVirtuel\ProjetBadgeVirtuel2\bin\Debug\ProjetBadgeVirtuel2.exe.config
+C:\Users\etulyon1\Desktop\projects\docs-student\DotNet\ProjetDonet\ProjetDonet\C#ProjetBadgeVirtuel\ProjetBadgeVirtuel2\bin\Debug\ProjetBadgeVirtuel2.exe
+C:\Users\etulyon1\Desktop\projects\docs-student\DotNet\ProjetDonet\ProjetDonet\C#ProjetBadgeVirtuel\ProjetBadgeVirtuel2\bin\Debug\ProjetBadgeVirtuel2.pdb
+C:\Users\etulyon1\Desktop\projects\docs-student\DotNet\ProjetDonet\ProjetDonet\C#ProjetBadgeVirtuel\ProjetBadgeVirtuel2\obj\Debug\Views\MainWindow.g.cs
+C:\Users\etulyon1\Desktop\projects\docs-student\DotNet\ProjetDonet\ProjetDonet\C#ProjetBadgeVirtuel\ProjetBadgeVirtuel2\obj\Debug\App.g.cs
+C:\Users\etulyon1\Desktop\projects\docs-student\DotNet\ProjetDonet\ProjetDonet\C#ProjetBadgeVirtuel\ProjetBadgeVirtuel2\obj\Debug\ProjetBadgeVirtuel2_MarkupCompile.cache
+C:\Users\etulyon1\Desktop\projects\docs-student\DotNet\ProjetDonet\ProjetDonet\C#ProjetBadgeVirtuel\ProjetBadgeVirtuel2\obj\Debug\ProjetBadgeVirtuel2_MarkupCompile.lref
+C:\Users\etulyon1\Desktop\projects\docs-student\DotNet\ProjetDonet\ProjetDonet\C#ProjetBadgeVirtuel\ProjetBadgeVirtuel2\obj\Debug\Views\MainWindow.baml
+C:\Users\etulyon1\Desktop\projects\docs-student\DotNet\ProjetDonet\ProjetDonet\C#ProjetBadgeVirtuel\ProjetBadgeVirtuel2\obj\Debug\ProjetBadgeVirtuel2.g.resources
+C:\Users\etulyon1\Desktop\projects\docs-student\DotNet\ProjetDonet\ProjetDonet\C#ProjetBadgeVirtuel\ProjetBadgeVirtuel2\obj\Debug\ProjetBadgeVirtuel2.Properties.Resources.resources
+C:\Users\etulyon1\Desktop\projects\docs-student\DotNet\ProjetDonet\ProjetDonet\C#ProjetBadgeVirtuel\ProjetBadgeVirtuel2\obj\Debug\ProjetBadgeVirtuel2.csproj.GenerateResource.cache
+C:\Users\etulyon1\Desktop\projects\docs-student\DotNet\ProjetDonet\ProjetDonet\C#ProjetBadgeVirtuel\ProjetBadgeVirtuel2\obj\Debug\ProjetBadgeVirtuel2.csproj.CoreCompileInputs.cache
+C:\Users\etulyon1\Desktop\projects\docs-student\DotNet\ProjetDonet\ProjetDonet\C#ProjetBadgeVirtuel\ProjetBadgeVirtuel2\obj\Debug\ProjetBadgeVirtuel2.exe
+C:\Users\etulyon1\Desktop\projects\docs-student\DotNet\ProjetDonet\ProjetDonet\C#ProjetBadgeVirtuel\ProjetBadgeVirtuel2\obj\Debug\ProjetBadgeVirtuel2.pdb
+C:\Users\etulyon1\Desktop\projects\docs-student\DotNet\ProjetDonet\ProjetDonet\C#ProjetBadgeVirtuel\ProjetBadgeVirtuel2\obj\Debug\ProjetBadgeVirtuel2.csproj.AssemblyReference.cache
